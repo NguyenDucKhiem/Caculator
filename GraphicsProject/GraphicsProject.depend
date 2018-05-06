@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1513501435 source:d:\study\c\graphicsproject\main.cpp
+	"Calculator3.0.h"
+
+1513305576 d:\study\c\graphicsproject\graphics.h
+	"Button.h"
+
+1513305328 d:\study\c\graphicsproject\button.h
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+
+1506766057 d:\study\c\graphicsproject\calculator.h
+	"Graphics.h"
+	<math.h>
+
+1513308907 d:\study\c\graphicsproject\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1516887403 d:\study\c\graphicsproject\calculator2.0.h
+	"Graphics.h"
+	<math.h>
+	"LinkedList.h"
+	"Posfix.h"
+	"History.h"
+	"Mode.h"
+
+1513308908 d:\study\c\graphicsproject\history.h
+	"Graphics.h"
+	"LinkedList.h"
+	"Posfix.h"
+
+1513498094 d:\study\c\graphicsproject\posfix.h
+	<math.h>
+	<string.h>
+	"LinkedList.h"
+
+1513090433 d:\study\c\graphicsproject\mode.h
+	"Graphics.h"
+
+1513090977 d:\study\c\graphicsproject\calculator3.0.h
+	"Calculator2.0.h"
+
+1510967981 d:\study\c\graphicsproject\scientificcalculator.h
+	"Calculator2.0.h"
+
